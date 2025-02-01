@@ -31,3 +31,7 @@ Hi, I'm Wunna, a passionate software developer with a knack for building efficie
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </picture>
     </a></p>
+
+![Wunna's GitHub stats](https://github-readme-stats.vercel.app/api?username=wunna11&show_icons=true&theme=radical)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=wunna11&layout=compact&theme=tokyonight)](https://github.com/wunna11/github-readme-stats)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=gmagnenat&theme=tokyonight)](https://github.com/wunna11/github-readme-stats)
